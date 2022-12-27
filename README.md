@@ -1,7 +1,7 @@
 # Pneumonia_Detection_From_Chest_XRays
 
 ## Problem Statement
-* Build a binary classifier to detect pneumonia using chest x-rays.
+* Built a binary classifier to detect pneumonia using chest x-rays.
 
 ### Pneumonia
 * Pneumonia Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing. 
